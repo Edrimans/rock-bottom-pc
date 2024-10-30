@@ -1,0 +1,357 @@
+
+.women {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  position: relative; /* Ensure this is relative for absolute children */
+}
+  
+  .women .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 3000px;
+    position: relative;
+  }
+  
+  .women .overlap-group {
+    position: absolute;
+    width: 1920px;
+    height: 339px;
+    top: 2661px;
+    left: 0;
+  }
+  
+  .women .image {
+    width: 1920px;
+    height: 291px;
+    top: 48px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .women .PROT-MOA-bjeans {
+    position: absolute;
+    width: 572px;
+    top: 29px;
+    left: 163px;
+    font-family: "B612", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .women .text-wrapper {
+    position: absolute;
+    width: 749px;
+    top: 14px;
+    left: 1049px;
+    font-family: "B612", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .women .img {
+    width: 365px;
+    height: 339px;
+    top: 0;
+    left: 1500px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .women .overlap {
+    position: absolute;
+    width: 2062px;
+    height: 1423px;
+    top: 226px;
+    left: 62px;
+  }
+  
+  .women .image-wrapper {
+    position: absolute;
+    width: 732px;
+    height: 456px;
+    top: 60;
+    left: 0;
+    background-image: url(./img/image-59.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .women .overlap-2 {
+    position: absolute;
+    width: 1978px;
+    height: 1405px;
+    top: 11px;
+    left: 84px;
+  }
+
+  .women .p {
+    position: absolute;
+    width: 765px;
+    top: 475px;
+    left: 0;
+    font-family: "B612", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .women .overlap-3 {
+    position: absolute;
+    width: 1239px;
+    height: 1405px;
+    top: 0;
+    left: 739px;
+  }
+  
+  .women .jaded-london {
+    position: absolute;
+    width: 1239px;
+    top: 1353px;
+    left: 0;
+    font-family: "B612", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .women .w {
+    position: absolute;
+    width: 960px;
+    height: 1354px;
+    top: 0;
+    left: 26px;
+    background-image: url(./img/image-53.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .women .image-3 {
+    width: 900px;
+    height: 1350px;
+    top:30px;
+    left: 70px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .women .text-wrapper-2 {
+    position: absolute;
+    width: 613px;
+    top: 1403px;
+    left: 60px;
+    font-family: "B612", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .women .img-wrapper {
+    position: absolute;
+    width: 732px;
+    height: 865px;
+    top: 518px;
+    left: 0;
+    background-image: url(./img/image-50.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .women .image-4 {
+    width: 618px;
+    height: 720px;
+    top: 145px;
+    left: 70px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .women .text-wrapper-3 {
+    position: absolute;
+    width: 177px;
+    top: 33px;
+    left: 875px;
+    font-family: "Bokor", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .women .text-wrapper-4 {
+    position: absolute;
+    width: 269px;
+    top: 102px;
+    left: 911px;
+    font-family: "Bokor", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .women .real-takai-wide-fit {
+    position: absolute;
+    width: 512px;
+    top: 3262px;
+    left: 1316px;
+    font-family: "B612", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .women .plus {
+    position: absolute;
+    width: 56px;
+    height: 45px;
+    top: 1900px;
+    left: -1437px;
+  }
+  
+  .women .info {
+    position: absolute;
+    width: 26px;
+    height: 25px;
+    top: 70px;
+    left: 1781px;
+  }
+  
+  .women .overlap-4 {
+    position: absolute;
+    width: 793px;
+    height: 968px;
+    top: 1666px;
+    left: 0;
+  }
+  
+  .women .protemoa {
+    position: absolute;
+    width: 783px;
+    height: 968px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/image-14.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .women .image-5 {
+    width: 100%;
+    height: 100%;
+    top: 50px;
+    left: -100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .women .overlap-5 {
+    position: absolute;
+    width: 687px;
+    height: 969px;
+    top: 1666px;
+    left: 1021px;
+    background-image: url(./img/image-19.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .women .image-6 {
+    width: 100%;
+    height: 100%;
+    top: 50px;
+    left: -100px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .women .search {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 73px;
+    left: 92px;
+    background-image: url(./img/search.svg);
+    background-size: 100% 100%;
+  }
+  
+  .women .cart {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 73px;
+    left: 184px;
+    background-image: url(./img/shopping-cart.svg);
+    background-size: 100% 100%;
+  }
+  
+  .women .menu {
+    position: absolute;
+    width: 24px;
+    height: 19px;
+    top: 76px;
+    left: 276px;
+    background-image: url(./img/image-95.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .off-screen-menu {
+    background-color: white;
+    height: 100vh;
+    width: 100%;
+    max-width: 450px;
+    position: fixed;
+    top: 0;
+    right: -450px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 3rem;
+    transition: .3s ease;
+    font-family: 'Bokor', 'sans-serif';
+  } 
+  .off-screen-menu.active {
+    right: 0;
+  }
+  
+  nav {
+    display: flex;
+    background-color: white;
+  }
+  
+  .ham-menu {
+    height: 50px;
+    width: 50px; 
+    top: 50px;
+    left: 350px;
+    margin-right: auto;
+    position: relative;
+  
+  }
